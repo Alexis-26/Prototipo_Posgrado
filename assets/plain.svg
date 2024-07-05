@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128.87463mm"
+   height="87.128464mm"
+   viewBox="0 0 128.87463 87.128464"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch11">
+      <stop
+         style="stop-color:#010101;stop-opacity:1;"
+         offset="0"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="swatch10">
+      <stop
+         style="stop-color:#44aa00;stop-opacity:1;"
+         offset="0"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#swatch11"
+       id="linearGradient12"
+       x1="39.449619"
+       y1="133.51582"
+       x2="94.066185"
+       y2="133.51582"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96361989,0,0,0.87856095,-37.682061,-88.126424)" />
+  </defs>
+  <rect
+     style="fill:#000000;fill-opacity:0;stroke:#010101;stroke-width:1.009;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2"
+     width="68.016014"
+     height="56.975658"
+     x="60.354115"
+     y="0.50450438" />
+  <rect
+     style="fill:#00aa34;fill-opacity:0;stroke:#010101;stroke-width:1.01157;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3"
+     width="51.555782"
+     height="21.897701"
+     x="0.64492702"
+     y="64.724953" />
+  <rect
+     style="fill:#44aa00;fill-opacity:0;stroke:#010101;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4"
+     width="67.476425"
+     height="22.766438"
+     x="60.623905"
+     y="63.862026" />
+  <rect
+     style="fill:#44aa00;fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient12);stroke-width:0.920108;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5"
+     width="52.374249"
+     height="57.093777"
+     x="0.46005535"
+     y="0.62845916" />
+</svg>
