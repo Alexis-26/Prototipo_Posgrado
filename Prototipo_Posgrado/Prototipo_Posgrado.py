@@ -7,3 +7,4 @@ from Prototipo_Posgrado.inicio_sesion import frontend
 
 app = rx.App()
 app.add_page(frontend.index)
+
