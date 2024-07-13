@@ -1,13 +1,15 @@
 import reflex as rx
+from Prototipo_Posgrado.inicio_sesion import style
 """flotante se creó inicialmente para lograr que el texto se situara alrededor de las imágenes y no necesariamente debajo de ellas."""
 """ establecer la distancia entre líneas de texto.  """
+
 def index():
     return rx.box(
         rx.hstack(
             rx.container(
                 rx.box(
                     rx.image(src="/logo_uabc.png", width="10%",margin_right="10px",style={"float":"left"}),
-                    rx.text("UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA", size="6", style={"color":"white", "font-weight":"bold" ,"line_height": "100px"}),
+                    rx.text("UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA", style=style.style1),
                     margin_top="50px"
                     ),
                     bg="#00723f"
