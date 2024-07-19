@@ -15,6 +15,6 @@ def index():
             go_to_range_start_on_select=True,
             locale='en-US',
             min_date='2022-01-01',
-            max_date='2023-12-31'
+            max_date='2023-12-31',
         )
     )
